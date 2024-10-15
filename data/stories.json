@@ -1,0 +1,113 @@
+[
+  {
+    "slug": "dumbo",
+    "title": "Dumbo",
+    "image": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Dumbo is a 1941 American animated film produced by Walt Disney Productions and released by RKO Radio Pictures. The fourth Disney animated feature film, it is based upon the storyline written by Helen Aberson and Harold Pearl, and illustrated by Helen Durney for the prototype of a novelty toy ('Roll-a-Book'). The main character is Jumbo Jr., a semi-anthropomorphic elephant who is cruelly nicknamed 'Dumbo'. He is ridiculed for his big ears, but in fact he is capable of flying by using his ears as wings. Throughout most of the film, his only true friend, aside from his mother, is the mouse, Timothy – a relationship parodying the stereotypical animosity between mice and elephants.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1557050543-4d5f4e07ef46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZWxlcGhhbnR8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1581852017103-68ac65514cf7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2lyY3VzfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1530126483408-aa533e55bdb2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZlYXRoZXJ8ZW58MHx8MHx8fDA%3D"
+    ]
+  },
+  {
+    "slug": "the-lion-king",
+    "title": "The Lion King",
+    "image": "https://images.unsplash.com/photo-1534188753412-3e26d0d618d6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "The Lion King is a 1994 American animated musical drama film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. It is inspired by William Shakespeare's Hamlet with influences from the Biblical stories of Joseph and Moses. The film tells the story of Simba, a young lion who is to succeed his father, Mufasa, as King of the Pride Lands; however, after Simba's paternal uncle Scar murders Mufasa, Simba is manipulated into thinking he was responsible and flees into exile.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1614027164847-1b28cfe1df60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGlvbnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1516426122078-c23e76319801?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YWZyaWNhbiUyMHNhdmFubmF8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1549366021-9f761d450615?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2lsZGVibGVlc3R8ZW58MHx8MHx8fDA%3D"
+    ]
+  },
+  {
+    "slug": "finding-nemo",
+    "title": "Finding Nemo",
+    "image": "https://images.unsplash.com/photo-1524704796725-9fc3044a58b2?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Finding Nemo is a 2003 American computer-animated adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. Directed and co-written by Andrew Stanton with co-direction by Lee Unkrich, the screenplay was written by Bob Peterson, David Reynolds, and Stanton from a story by Stanton. The film stars the voices of Albert Brooks, Ellen DeGeneres, Alexander Gould, and Willem Dafoe. It tells the story of an overprotective clownfish named Marlin who, along with a regal blue tang named Dory, searches for his missing son Nemo.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2xvd25maXNofGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1546026423-cc4642628d2b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29yYWwlMjByZWVmfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1544552866-d3ed42536cfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Ymx1ZSUyMHRhbmd8ZW58MHx8MHx8fDA%3D"
+    ]
+  },
+  {
+    "slug": "toy-story",
+    "title": "Toy Story",
+    "image": "https://images.unsplash.com/photo-1558679908-541bcf1249ff?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The first feature-length film to be entirely computer-animated, it was directed by John Lasseter. The film follows a group of anthropomorphic toys who pretend to be lifeless whenever humans are present, and focuses on the relationship between Woody, a pullstring cowboy doll (voiced by Tom Hanks), and Buzz Lightyear, an astronaut action figure (voiced by Tim Allen).",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1563901935883-cb61f5d49be4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dG95JTIwY293Ym95fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG95JTIwc3BhY2VtYW58ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG95JTIwYm94fGVufDB8fDB8fHww"
+    ]
+  },
+  {
+    "slug": "frozen",
+    "title": "Frozen",
+    "image": "https://images.unsplash.com/photo-1618923850107-d1a234d7a73a?q=80&w=2068&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Frozen is a 2013 American computer-animated musical fantasy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. The 53rd Disney animated feature film, it is inspired by Hans Christian Andersen's fairy tale 'The Snow Queen'. The film depicts a princess who sets off on a journey alongside an iceman, his reindeer, and a snowman to find her estranged sister, whose icy powers have inadvertently trapped their kingdom in eternal winter.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c25vd2ZsYWtlfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1551582045-6ec9c11d8697?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25vd21hbnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1518134346374-184f9d21cea2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aWNlJTIwY2FzdGxlfGVufDB8fDB8fHww"
+    ]
+  },
+  {
+    "slug": "shrek",
+    "title": "Shrek",
+    "image": "https://images.unsplash.com/photo-1608889825103-eb5ed706fc64?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 picture book of the same name by William Steig. Directed by Andrew Adamson and Vicky Jenson in their directorial debuts, it stars Mike Myers, Eddie Murphy, Cameron Diaz, and John Lithgow as the voices of the lead characters. The film parodies other fairy tale adaptations, primarily aimed at animated Disney films. In the story, an ogre called Shrek (Myers) finds his swamp overrun by fairy tale creatures who have been banished by the corrupt Lord Farquaad (Lithgow) aspiring to be king.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1596710629144-6f6abf933384?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3dhbXB8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1600623050499-84929aad17c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmFpcnl0YWxlfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1610225654354-d9a9f2efd3a2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FzdGxlJTIwZmFpcnl0YWxlfGVufDB8fDB8fHww"
+    ]
+  },
+  {
+    "slug": "spirited-away",
+    "title": "Spirited Away",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text":
+    "Spirited Away is a 2001 Japanese animated fantasy film written and directed by Hayao Miyazaki, animated by Studio Ghibli. It tells the story of Chihiro Ogino, a 10-year-old girl who, while moving to a new neighborhood, enters the world of Kami (spirits) of Japanese Shinto folklore. After her parents are turned into pigs by the witch Yubaba, Chihiro takes a job working in Yubaba's bathhouse to find a way to free herself and her parents and return to the human world.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1492571350019-22de08371fd3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amFwYW5lc2UlMjB0ZW1wbGV8ZW58MHx8MHx8fDA%3D",
+      "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmF0aGhvdXNlfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1528360983277-13d401cdc186?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3Bpcml0fGVufDB8fDB8fHww"
+    ]
+  },
+  {
+    "slug": "zootopia",
+    "title": "Zootopia",
+    "image": "https://images.unsplash.com/photo-1534361960057-19889db9621e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Zootopia (also known as Zootropolis in some countries) is a 2016 American computer-animated buddy cop comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures. The film is directed by Byron Howard and Rich Moore, co-directed by Jared Bush, and stars the voices of Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J. K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira. It details the unlikely partnership between a rabbit police officer and a red fox con artist as they uncover a criminal conspiracy involving the disappearance of predators.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm94fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmFiYml0fGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eXxlbnwwfHwwfHx8MA%3D%3D"
+    ]
+  },
+  {
+    "slug": "how-to-train-your-dragon",
+    "title": "How to Train Your Dragon",
+    "image": "https://images.unsplash.com/photo-1590005354167-6da97870c757?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "How to Train Your Dragon is a 2010 American computer-animated action fantasy film loosely based on the 2003 book of the same name by British author Cressida Cowell, produced by DreamWorks Animation and distributed by Paramount Pictures. The film was directed by Chris Sanders and Dean DeBlois from a screenplay by Will Davies, Sanders, and DeBlois, and stars the voices of Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera, Jonah Hill, Christopher Mintz-Plasse, T.J. Miller, and Kristen Wiig. The story takes place in a mythical Viking world where a young Viking teenager named Hiccup aspires to follow his tribe's tradition of becoming a dragon slayer. After finally capturing his first dragon, and with his chance at last of gaining the tribe's acceptance, he finds that he no longer has the desire to kill it and instead befriends it.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1577493340887-b7bfff550145?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZHJhZ29ufGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1599431238679-61b7354f93a7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlraW5nfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1601662528567-526cd06f6582?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dmlraW5nJTIwdmlsbGFnZXxlbnwwfHwwfHx8MA%3D%3D"
+    ]
+  },
+  {
+    "slug": "coco",
+    "title": "Coco",
+    "image": "https://images.unsplash.com/photo-1621956838481-f8f616950454?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "text": "Coco is a 2017 American computer-animated fantasy film produced by Pixar Animation Studios and released by Walt Disney Pictures. Based on an original idea by Lee Unkrich, it is directed by him and co-directed by Adrian Molina. The story follows a 12-year-old boy named Miguel who is accidentally transported to the Land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family among the living and to reverse his family's ban on music.",
+    "otherImages": [
+      "https://images.unsplash.com/photo-1509731987499-fd9bba3a46cc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF5JTIwb2YlMjB0aGUlMjBkZWFkfGVufDB8fDB8fHww",
+      "https://images.unsplash.com/photo-1619229667009-e7e51684e8e4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWV4aWNhbiUyMGd1aXRhcnxlbnwwfHwwfHx8MA%3D%3D",
+      "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaWdvbGR8ZW58MHx8MHx8fDA%3D"
+    ]
+  }
+]

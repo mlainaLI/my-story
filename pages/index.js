@@ -1,6 +1,7 @@
 import Image from "next/image";
 import localFont from "next/font/local";
 import Head from "next/head";
+import Router from "next/router";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -15,6 +16,7 @@ const geistMono = localFont({
 
 
 export default function Home({ stories, totalPages }) {
+  console.log('stories', stories)
   return (
     <>
       <Head>
@@ -33,6 +35,7 @@ export default function Home({ stories, totalPages }) {
                   <div
                     key={index}
                     className="cursor-pointer bg-white rounded-lg overflow-hidden shadow-lg transition-all duration-300 ease-in-out transform hover:-translate-y-2 hover:shadow-xl"
+                    onClick={() => Router.push(`/stories/${story.slug}`)}
                   >
                     <div className="relative h-64">
                       <Image
@@ -60,7 +63,7 @@ export default function Home({ stories, totalPages }) {
 export async function getServerSideProps() {
   const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/stories?page=1`)
   const data = await res.json()
-
+console.log('data', data)
   return {
     props: {
       stories: data.stories,
